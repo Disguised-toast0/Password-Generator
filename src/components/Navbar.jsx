@@ -7,7 +7,7 @@ const Navbar = () => {
         <h3 className='text-l cursor-pointer bg-stone-700 hover:bg-slate-600 hover:duration-300 px-4 py-1.5 rounded-md'>Hi there!</h3>
         <button
         title='Leave a Star for Our repository!'
-        onClick={() => window.open("https://github.com", "_blank")}
+        onClick={() => window.open("https://github.com/Disguised-toast0/Password-Generator", "_blank")}
         className='cursor-pointer bg-red-600 hover:bg-red-800 hover:duration-300 rounded-md hover:solid px-4 py-1.5'>Star ⭐</button>
         
       </div>

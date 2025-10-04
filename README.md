@@ -22,7 +22,7 @@ It allows users to create strong, customizable passwords with options for length
 
 ## 🖥️ Demo
 
-👉 [Live Demo](https://your-live-link-here.com)  
+👉 [Live Demo](https://password-generator-gamma-neon.vercel.app/)  
 
 ---
 
