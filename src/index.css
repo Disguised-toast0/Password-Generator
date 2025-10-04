@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+body{
+  background-color: rgb(0, 0, 0);
+}
+
+.label{
+  font-size: large;
+  color: white;
+  margin-left: 20px;
+}
+
